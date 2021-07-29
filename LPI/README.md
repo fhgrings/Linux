@@ -14,7 +14,7 @@
 
 ### Exercises
 
-[LPIC102 Exercies]: ./ExerciciosLPIC102.md	"LPIC102 Exercises"
+[LPIC102 Exercies](./ExerciciosLPIC102.md)
 
 http://github.com - automatic!
 [GitHub](http://github.com)
