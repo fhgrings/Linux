@@ -2,6 +2,12 @@
 
 [LPIC 1]: ./Linux-LPIC-1.md	"LPIC 1"
 
+## LPIC 101
+
+### Abstract
+
+[LPIC101](./Linux-LPIC-1.md#prova-101-500)
+
 ## LPIC 102
 
 ### Content
@@ -10,7 +16,7 @@
 
 ### Abstract
 
-[LPIC102](./Linux-LPIC-1.md#prova-101-500)
+[LPIC102](./Linux-LPIC-1.md#prova-102-500)
 
 ### Exercises
 
