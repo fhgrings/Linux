@@ -10,12 +10,9 @@
 
 ### Abstract
 
-[LPIC102]: ./Linux-LPIC-1.md	"LPIC102"
+[LPIC102](./Linux-LPIC-1.md#prova-101-500)
 
 ### Exercises
 
 [LPIC102 Exercies](./ExerciciosLPIC102.md)
-
-http://github.com - automatic!
-[GitHub](http://github.com)
 
