@@ -16,3 +16,6 @@
 
 [LPIC102 Exercies]: ./ExerciciosLPIC102.md	"LPIC102 Exercises"
 
+http://github.com - automatic!
+[GitHub](http://github.com)
+
