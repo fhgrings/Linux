@@ -1,6 +1,7 @@
 # LPI Studies
 
 [LPI Essentials](./Linux-LPI-Essentials.md)
+
 [LPIC 1](./Linux-LPIC-1.md)
 
 
