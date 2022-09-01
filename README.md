@@ -28,3 +28,7 @@ This repo is a Linux Professional Institue Certificates studies
 
 [LPIC102 Exercies](./LPI/ExerciciosLPIC102.md)
 
+
+
+### Observability Tools
+![Linux Proc Mapping](./LPI/linux-obs-tools.jpg)
