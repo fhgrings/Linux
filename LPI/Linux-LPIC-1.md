@@ -1650,6 +1650,8 @@ du # disk usage
 	--max-depth=2 # Apenas para 2 dir de profundidade
 	-a # All
 	/dir # Busca apenas no diretório
+
+	du -h --max-depth=3 --threshold=1G 2>/dev/null
 	
 fsck # File System check
 
